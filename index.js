@@ -10,3 +10,7 @@ const name_name = ()=>{
     console.log("hii bhaii");
     
 }
+
+const name33 = ()=>{
+    
+}
