@@ -1,1 +1,6 @@
-const name = "brother"g
+const bhai = "brother"
+
+const name = ()=>{
+    console.log("hii bhaii");
+    
+}
